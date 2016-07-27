@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.7.0//EN"
+        "http://gwtproject.org/doctype/2.7.0/gwt-module.dtd">
+<module rename-to="gwtpEmpty">
+	<inherits name='com.google.gwt.user.User'/>
+    <inherits name='com.gwtplatform.mvp.MvpWithEntryPoint'/>
+
+    <extend-configuration-property name="gin.ginjector.modules"
+            value="com.mydomain.client.ClientModule"/>
+
+    <source path="client"/>
+    <source path="shared"/>
+</module>
