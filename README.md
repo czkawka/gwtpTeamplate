@@ -2,6 +2,13 @@
 empty project for gwtp ready to start ;)
 
 # Required sorces( Dependencies )
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li><li></li>
+</ul>
 <a href="https://repo1.maven.org/maven2/com/gwtplatform/>GWTP respository</a>
 <a href="https://code.google.com/archive/p/google-gin/downloads">GIN</a>
 <a href="http://goo.gl/UYxZBZ">VELOCITY</a>
